@@ -170,17 +170,6 @@ special_mode_mask values:
       <A3Preview>ov13855_hfr_120_bu64297</A3Preview>
       <A3Video>ov13855_hfr_120_bu64297</A3Video>
     </ChromatixName>
- <ChromatixName sensor_resolution_index="7">
-      <ISPPreview>ov13855_bokeh</ISPPreview>
-      <ISPSnapshot>ov13855_bokeh</ISPSnapshot>
-      <ISPVideo>ov13855_bokeh</ISPVideo>
-      <CPPPreview>ov13855_cpp_bokeh</CPPPreview>
-      <CPPSnapshot>ov13855_cpp_bokeh</CPPSnapshot>
-      <CPPVideo>ov13855_cpp_bokeh</CPPVideo>
-      <CPPLiveshot>ov13855_cpp_bokeh</CPPLiveshot>
-      <A3Preview>ov13855_bokeh_bu64297</A3Preview>
-      <A3Video>ov13855_bokeh_bu64297</A3Video>
-    </ChromatixName>
   </ResolutionChromatixInfo>
 </ChromatixConfigurationRoot>
 
